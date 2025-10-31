@@ -1,3 +1,4 @@
 FAREL RESOLUSI
 - Week 1 belajar git github
 - Belajar tiap hari
+- apalah biar apa gitu
